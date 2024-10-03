@@ -71,8 +71,7 @@ STRIPE_SECRET_KEY = ...
 
 `Backend is Running on Port: 4000 & Frontend is Running on Port: 3000 & Admin Panel is running on Port: 3001`
 
-```diff
-=> Command For Start Server and App
+```bash
 --- Backend: npm run server
 --- Frontend and Admin panel: npm run dev
 ```

@@ -32,11 +32,28 @@
 
 
 `=> You can Generate JWT_SECRET by using this command : "openssl rand -base64 32", run this command on gitbash terminal`
+## 🤸 Quick Start
+
+Follow these steps to set up the project locally on your machine.
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/jaychavada01/Forever-Ecommerce-Store
+cd Forever-Ecommerce-Store
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
 
 ### Setup .env file
 
 ```env
-
 * Frontend && Admin :
 VITE_BACKEND_URL = ...
 
@@ -50,9 +67,6 @@ JWT_SECRET=...
 ADMIN_EMAIL=...
 ADMIN_PASSWORD=...
 STRIPE_SECRET_KEY = ...
-
-
-
 ```
 
 `Backend is Running on Port: 4000 & Frontend is Running on Port: 3000 & Admin Panel is running on Port: 3001`

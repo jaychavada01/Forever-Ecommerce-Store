@@ -2,7 +2,12 @@
 
 ### Overview of WebSite:
 
-`Coming soon.....`
+![image](https://github.com/user-attachments/assets/9d5b6f4f-2ab0-4811-8002-9f725f79d688)
+<h1 align="center">User Panel</h1>
+
+![image](https://github.com/user-attachments/assets/a522154d-758d-4282-a2b9-468de5043323)
+<h1 align="center">Admin Panel</h1>
+
 
 ### Some Features:
 
@@ -30,7 +35,7 @@
 
 ### Setup .env file
 
-```js
+```env
 
 * Frontend && Admin :
 VITE_BACKEND_URL = ...
